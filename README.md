@@ -41,10 +41,10 @@ This repository was setup to help people who believe that they solved the P vs N
   - *Failed proofs can lead to interesting results*.  Even when there is a bug in a proof, there can be interesting lemmas and small results that should be pursued further.  It was saddening in a few cases where the submitter had little interest in further pursuing such results that I believe could have potentially been published.
   - *Reviewing can be strenuous and difficult*.  It can be challenging to understand someone else's ideas, especially if their approach is totally new or if it is lacking in presentation because details are missing and proofs are not broken up into smaller more digestible pieces.
 
-- I have proposed solutions to open problems in complexity theory.  Most of my proposed solutions turn out to be false.  But, in some cases one or more of the following applied:
+- I have proposed solutions to open problems in complexity theory.  Many of my proposed solutions turn out to be false.  But, in some cases one or more of the following applied:
   - They still led to interesting insights and important smaller results.
   - They led to interesting discussions and new collaborations.
-  - They led to strenuous and time consuming endeavours.
+  - They required a lot of effort before coming to a clear resolution.
   
 <!---
 - Several complexity theorists that I have communicated with have expressed to me that they receive proposed P vs NP solutions for review. I once had the privileged to have lunch across from [Stephen Cook](https://en.wikipedia.org/wiki/Stephen_Cook) at a research forum.  He confirmed to me that he has received many proposed P vs NP solutions over the years.
