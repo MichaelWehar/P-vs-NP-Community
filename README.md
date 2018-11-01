@@ -2,7 +2,7 @@
 
 *Do you have a proposed P vs NP solution?  Did someone send you a proposed P vs NP solution and ask you to review it?*
 
-This repository was setup to help people who believe that they solved the P vs NP problem and to help people who were requested to review a proposed P vs NP solution.
+This repository was setup to help people who believe that they solved the P vs NP problem and to help the people who review proposed solutions.
 
 ### P vs NP is a popular problem that has captured a lot of people's interests.
 
