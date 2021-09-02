@@ -1,5 +1,6 @@
-Proposed solutions must be never removed from this list, but moved downward if they are bad.
-(Well, if flat Earth is used in the solution, we can make an exception.)
+# Description
+
+This document is for authors of proposed solutions to the P vs NP problem.  You are welcomed to list any of your proposed solutions that are publicly available.  Thank you!
 
 ## P = NP
 
