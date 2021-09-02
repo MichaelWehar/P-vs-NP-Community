@@ -2,6 +2,8 @@
 
 This document is for authors of proposed solutions to the P vs NP problem.  You are welcome to list any of your proposed solutions that are publicly available.  Thank you!
 
+# List of Proposed Solutions
+
 ## P = NP
 
 * https://math.portonvictor.org/2021/06/28/a-proof-of-pnp-using-a-merkle-tree-a-new-version/
