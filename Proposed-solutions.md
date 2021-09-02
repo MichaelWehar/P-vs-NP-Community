@@ -1,6 +1,6 @@
 # Description
 
-This document is for authors of proposed solutions to the P vs NP problem.  You are welcomed to list any of your proposed solutions that are publicly available.  Thank you!
+This document is for authors of proposed solutions to the P vs NP problem.  You are welcome to list any of your proposed solutions that are publicly available.  Thank you!
 
 ## P = NP
 
