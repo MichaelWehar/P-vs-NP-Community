@@ -63,7 +63,7 @@ This repository was setup to help people who believe that they solved the P vs N
 
 - Thoughts, Ideas, and Advice for researchers and reviewers.
 
-- Although I can only review one or two proposed solutions per year, I would be happy to be a volunteer reviewer for your proposed P vs NP solution.  Please contact me @ [dff72324@gmail.com](mailto:dff72324@gmail.com).  Also, you are welcome to list any publicly available proposed solutions within our [Proposed-solutions.md](https://github.com/MichaelWehar/P-vs-NP-Community/blob/master/Proposed-solutions.md) document within this Git repository.
+- Although I can only review one or two proposed solutions per year, I would be happy to be a volunteer reviewer for your proposed P vs NP solution.  Please contact me @ [dff72324@gmail.com](mailto:dff72324@gmail.com).  Also, you are welcome to list links to any of your publicly available proposed solutions within our [Proposed-solutions.md](https://github.com/MichaelWehar/P-vs-NP-Community/blob/master/Proposed-solutions.md) document within this Git repository.
 
 - Would anyone else out there like to be a reviewer for proposed P vs NP solutions?
 
